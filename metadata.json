@@ -1,0 +1,8 @@
+{
+  "name": "CRYING DOOM",
+  "description": "Some cries are warnings. Others are invitations. Chapter One: The House That Cries — a first-person 3D supernatural mystery-horror game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
